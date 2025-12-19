@@ -144,7 +144,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-<img width="498" height="744" alt="Screenshot 2025-12-19 112216" src="https://github.com/user-attachments/assets/77c712dd-e572-4c28-9869-c1d62e92d31f" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 112801" src="https://github.com/user-attachments/assets/af3242ce-ccb5-4c27-b5a8-1f10957515f7" />
+
 
 
 ## RESULT:
